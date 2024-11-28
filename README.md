@@ -10,11 +10,11 @@ This repository features examples of my work with **Microsoft Excel**, completed
   - Use of functions like `VLOOKUP`, `INDEX-MATCH`, `IF`, and `COUNTIF`.  
   - Basic statistical analysis with functions like `AVERAGE` and `STDEV`.  
 
-- **Data Visualization**:  
+- **Data Visualisation**:  
   - Creation of charts, graphs, and dashboards with slicers and timelines.  
 
 - **Pivot Tables**:  
-  - Summarizing data and performing analysis using Pivot Tables and calculated fields.  
+  - Summarising data and performing analysis using Pivot Tables and calculated fields.  
 
 - **Basic Automation**:  
   - Examples of automating tasks with Macros and simple VBA scripts.  
